@@ -1,0 +1,18 @@
+# VG/VG Proxy access configuration
+vg_url = http://172.16.11.13/ValidationGatewayService
+vg_connection_timeout = 60
+
+# Configuration Settings
+environment = dev
+agent_host_name = toolkitagent.emiratesid.ae
+agent_tls_enabled = false
+
+
+read_publicdata_offline = false
+
+# Log Settings
+log_level = INFO
+log_performance_time = true
+
+# Digital Signature Settings
+enable_digital_signature_service = false

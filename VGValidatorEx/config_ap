@@ -1,0 +1,6 @@
+# VG/VG Proxy access configuration
+vg_url = http://172.16.11.13/ValidationGatewayService
+
+# Configuration Settings
+environment = dev
+read_publicdata_offline = false

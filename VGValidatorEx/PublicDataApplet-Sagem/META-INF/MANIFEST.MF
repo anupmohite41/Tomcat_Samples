@@ -1,0 +1,386 @@
+Manifest-Version: 1.0
+Permissions: all-permissions
+Caller-Allowable-Codebase: *
+Trusted-Library: true
+Application-Library-Allowable-Codebase: *
+
+Name: ae/emiratesid/idcard/toolkit/datamodel/HomeAddress.class
+SHA-256-Digest: kEDTx6HyPTR6djoj1p4diGW1qRUj4qBqPtpiZvfjCGI=
+
+Name: emiratesid/jio/webcomponents/PublicDataReader$13.class
+SHA-256-Digest: aYqhv/xAfCjMDh71BfUnMhQme4x+quYl5My5rLcG/hY=
+
+Name: emiratesid/jio/webcomponents/PublicDataReader$3.class
+SHA-256-Digest: 8qmKqHSMHZG6rSRROUZix1lGLnNzcEqLPqtQTRt8ZyQ=
+
+Name: emiratesid/jio/webcomponents/PublicDataReader$23.class
+SHA-256-Digest: Oj8JApFfvS0jplfXPWOeaWbcfJ4kKr2tZg1c61Z6NGA=
+
+Name: ae/emiratesid/idcard/toolkit/datamodel/CardFamilyBookData.class
+SHA-256-Digest: QovGaL57oZ/32Jf6XTl9apasBA1eMAhTBnQPmIhp5x4=
+
+Name: emiratesid/jio/webcomponents/PublicDataReader$33.class
+SHA-256-Digest: 91Xdv4uO6zi4vyI8f1bOEEL2CWeMWYUZbZ/H69/sfNY=
+
+Name: emiratesid/jio/webcomponents/PublicDataReader$6.class
+SHA-256-Digest: mMo+741IG26d8723SpuEP5wy5hWh0O8N2Nc2zyO/F78=
+
+Name: ae/emiratesid/idcard/toolkit/datamodel/WorkAddress$1.class
+SHA-256-Digest: NsSTebmvkVJHyOgOssOQSX32aHJ8XaEuy2EnvkQHxJE=
+
+Name: ae/emiratesid/idcard/toolkit/datamodel/HomeAddress$1.class
+SHA-256-Digest: MGTdx3leRnqgBlSataQLjW4YN1Wxz+rzM/E5UjjySBY=
+
+Name: ae/emiratesid/idcard/toolkit/datamodel/ToolkitXmlDataObject.clas
+ s
+SHA-256-Digest: 6BKR+EWbZ3Xuxm/JSV9IEpOn7BrVVtBp7W+TRtMQR7Y=
+
+Name: emiratesid/jio/webcomponents/PublicDataReader$26.class
+SHA-256-Digest: bQcjExN3g9y8fYBUp6i2ku9JE8obIzAAYppwpnBPH/M=
+
+Name: libs_32/Mso_SpUsb.dll
+SHA-256-Digest: /lkHg03NdF50J3QDqjZPr4UJyIWwi3O6dvKckEtGyOA=
+
+Name: emiratesid/jio/webcomponents/PublicDataReader$16.class
+SHA-256-Digest: XO2FA4CeCJw8GSFafKlA3M8kATF9rmny9YGY8VJ87kQ=
+
+Name: libs_64/MSO_Sprs232.dll
+SHA-256-Digest: OOPlAGHEf+Usw/yKdsyToE4FTyCqZyz1iaZWrURl5dQ=
+
+Name: emiratesid/jio/utils/FileUtils.class
+SHA-256-Digest: cpZ9Nw0u6Ulfq8kcrsh4UPzJDTuRxLDMH67OFeFkp3k=
+
+Name: emiratesid/jio/webcomponents/PublicDataReader$19.class
+SHA-256-Digest: Tc737hr5j4kWIN4Wc44Dh5gspBvZkU0jIG6Docms+qs=
+
+Name: emiratesid/jio/webcomponents/PublicDataReader$9.class
+SHA-256-Digest: s3Lxf66zmvFScEQXAr/tXNbBReSq8wxm7JAtpqMXnkg=
+
+Name: ae/emiratesid/idcard/toolkit/datamodel/RequestHandle.class
+SHA-256-Digest: USxH48aKHedpjs9ncEwaZ1ASr/teFUZtYag3CFhlPPE=
+
+Name: ae/emiratesid/idcard/toolkit/datamodel/PDFVisibleSignatureParame
+ ters$SignerPosition.class
+SHA-256-Digest: iY6Wwp1UwH1NHVM3A2jcXaGGyDGLDz46TIJuQ+wMhEQ=
+
+Name: libs_64/msvcp120.dll
+SHA-256-Digest: Kr8Kq1o8WulCS2Tp0Z2dbUrrxngU1+kuSSe5eY/vKEg=
+
+Name: libs_64/msvcr120.dll
+SHA-256-Digest: rTIkC7HeVcP1/KyHifWDoXBX+dFJFMU4wqelrTRrNBw=
+
+Name: libs_32/MSOSECU.dll
+SHA-256-Digest: rOEl8GfZ30yCMhK8CFssVqmrf6vKzOwITMe3P89mJKU=
+
+Name: ae/emiratesid/idcard/toolkit/datamodel/Child.class
+SHA-256-Digest: tXxnL6wtLgNfCcQa5jcVzINryTkBCt0FsZubSpFin2o=
+
+Name: emiratesid/jio/webcomponents/PublicDataReader$20.class
+SHA-256-Digest: fKgHm/JWh5WuJlgNcwjnmntd+eJn14oe09rW5PM2CXQ=
+
+Name: libs_32/MorphoGLog.dll
+SHA-256-Digest: ZOO8yQ6d0wKie16WYiIaWeZzuSwATIu2chFZeqKZ3OQ=
+
+Name: libs_64/MSOSECU.dll
+SHA-256-Digest: jliv/56nwucWXov3bPziUmQzdIZhScbiege/imoyAVE=
+
+Name: ae/emiratesid/idcard/toolkit/internal/ToolkitConstants.class
+SHA-256-Digest: KDZ5MOFjutUUGf+0r4UtCo43GUKyEHTWd0WaQPM6inM=
+
+Name: ae/gov/ica/idcard/toolkit/util/Result.class
+SHA-256-Digest: Tgk4CnFxCW/0Hs63x4SAGjJVjTU+dTM4gIzRccK/rzo=
+
+Name: ae/emiratesid/idcard/toolkit/datamodel/NonModifiablePublicData$1
+ .class
+SHA-256-Digest: ROFKXqgOjm14TbC779lR6FM6OVwhcPHrsvnDcH8QItY=
+
+Name: emiratesid/jio/utils/CryptoUtils.class
+SHA-256-Digest: JLpJFyEH5cGQids+VTgw/mzRRSkGpMMkA8PbY7clGKM=
+
+Name: ae/emiratesid/idcard/toolkit/Toolkit.class
+SHA-256-Digest: aSLmqGclUX+Jvpp0S2IevVfo0XewwPh1VFNIU15eHOM=
+
+Name: emiratesid/jio/webcomponents/PublicDataReader$8.class
+SHA-256-Digest: IFDQBM0QEQfTIGtEN6Ay78/JIdI/pZBYVRkrzIFOHvk=
+
+Name: emiratesid/jio/utils/ImageUtils.class
+SHA-256-Digest: N2r3UMm8z/Ods3OmzkRa2NZN2lJgmCLNGMVTZ8rq/fg=
+
+Name: libs_32/MORPHO_SDK.dll
+SHA-256-Digest: XA0G0hC0w2FNG0rNpDZPzoyH7Jbg2rBcQkonkDpjf/I=
+
+Name: libs_32/MSO_Sprs232.dll
+SHA-256-Digest: 2jpqCxTUvySAFwPKF7V0Vb4gorxemphVwMPbZg+V8ck=
+
+Name: none.jpeg
+SHA-256-Digest: UiI3UdIea5ty1EqCDJ9B2vFX+/YKTtnZjx/vL+SOa9c=
+
+Name: emiratesid/jio/webcomponents/PublicDataReader.class
+SHA-256-Digest: TU3OhQo8X+3D/MT6GFQjlHRz8g9faZAFkge2ecptfPE=
+
+Name: ae/emiratesid/idcard/toolkit/datamodel/RegisterDeviceResponse.cl
+ ass
+SHA-256-Digest: DHmT5PmKYkHAlZjqh81vDDBtPRdBdTdILlCN8tHZ71E=
+
+Name: ae/gov/ica/idcard/toolkit/util/ErrorCode.class
+SHA-256-Digest: gCCppm/DFr3peIkP5YBpJ9/aSRuvHWMfGWnZZYKKzRI=
+
+Name: ae/gov/ica/idcard/toolkit/util/Utils.class
+SHA-256-Digest: CwK66Ngr85py8QDKc3lnvCFWyFIBDLnU594nd+x5vrc=
+
+Name: emiratesid/jio/webcomponents/PublicDataReader$1.class
+SHA-256-Digest: YF6HCf2dvSVk8uO3tXPhMMF5jOdNB+1J1VekLcPqgxY=
+
+Name: libs_32/msvcr120.dll
+SHA-256-Digest: huObWZWvDgQvzaqF/irv18ndx61l5jJ71ecFi8OrYV8=
+
+Name: libs_64/EIDAToolkit.dll
+SHA-256-Digest: 8CzkIICidsZSDfVB4WCJMhtsaWFwgn3fmoUs7PWPlJM=
+
+Name: dllConfig_64.conf
+SHA-256-Digest: tKJ3UatBhOdftv+ckZMg307urE4KTxHItrV6gD3TIos=
+
+Name: emiratesid/jio/webcomponents/PublicDataReader$31.class
+SHA-256-Digest: kKj4GK4xcdCbr1rB7MO9Iw5NXqXwi0VWj2Nyl1yVaYA=
+
+Name: ae/gov/ica/idcard/toolkit/util/ToolkitException.class
+SHA-256-Digest: IPJLG7FaaJh8xkN7ekyQg6GxN281JD3TChwb/gnI5Lw=
+
+Name: emiratesid/jio/exceptions/ErrorCodes.class
+SHA-256-Digest: kP1MqND7geau/VwF3+JWIeZR0x7h4ifHtmwWH0IXbPc=
+
+Name: ae/emiratesid/idcard/toolkit/internal/XMLElement.class
+SHA-256-Digest: gCmtuYRNwX+pTjieF9HxNIzAz/hQYVXPGoREObm5fMo=
+
+Name: emiratesid/jio/webcomponents/PublicDataReader$14.class
+SHA-256-Digest: vVvb9eP9SWLu+H1R74sC3+nxqESWic45xJzJWI/u3qA=
+
+Name: emiratesid/jio/webcomponents/PublicDataReader$30.class
+SHA-256-Digest: noJ11zzFc8hQTnlIX07oaSWg55/oF/fRDjUncNuPrv0=
+
+Name: ae/emiratesid/idcard/toolkit/internal/ToolkitAssert.class
+SHA-256-Digest: snIzjnOUtCfpwl+xUn1KE/xP96dKiOdczVvtNAxDPXY=
+
+Name: ae/emiratesid/idcard/toolkit/datamodel/ModifiablePublicData$1.cl
+ ass
+SHA-256-Digest: AS/dAoPIJeIc4ad/87KOxhvker886KmH++MUQ3Ed4XU=
+
+Name: emiratesid/jio/webcomponents/PublicDataReader$25.class
+SHA-256-Digest: W536fkZiu9f35CVi0MUj6X/lOJ1eYxrZaP+gDpJLUJI=
+
+Name: ae/emiratesid/idcard/toolkit/datamodel/Child$1.class
+SHA-256-Digest: rx2NwsfMWHMaXYfk+AKpSx9e88wbdqXQJlcV9wL0p3w=
+
+Name: ae/emiratesid/idcard/toolkit/datamodel/SignatureResponse.class
+SHA-256-Digest: fvGFnQIvXVvxmTUnaOOAEMcPPinkEZXLlNf7Zfg9a9U=
+
+Name: emiratesid/jio/webcomponents/PublicDataReader$7.class
+SHA-256-Digest: w2ZfaY0M/usd71ZphY9QzVVBKgAdt2lZj0CvJ3kbX7Q=
+
+Name: libs_64/MORPHO_SDK.dll
+SHA-256-Digest: 5wxKURHgC9UFpfW+/3tMxPGHmGttY/6ccSfWDPZcckg=
+
+Name: libs_64/PCSCLib.dll
+SHA-256-Digest: ar2R5mLxkXa5PnCULk1SVDvp5ZMiaYPRHn7mHDtPPmc=
+
+Name: ae/emiratesid/idcard/toolkit/CardReader.class
+SHA-256-Digest: acrh9StZoING/Ck9EM9VPM7+S1BjoNQ4vidXvZqOOHY=
+
+Name: ae/emiratesid/idcard/toolkit/datamodel/RequestHandle$1.class
+SHA-256-Digest: +665iLRvLA5O9sRNkO7nxqaMjTGoLwsoQyVAPkFLyV8=
+
+Name: ae/emiratesid/idcard/toolkit/datamodel/SigningParameters$Signatu
+ reLevel.class
+SHA-256-Digest: Rwi/i/hgZqBDYsZnIIGtEfEzy0KozyQfAN9RxNLLH2Q=
+
+Name: emiratesid/jio/exceptions/AppletAssert.class
+SHA-256-Digest: JA5yRgEW1k3X/gxRr8UlygjA35W9YnOi0NFkxVyh2aY=
+
+Name: ae/emiratesid/idcard/toolkit/datamodel/NonModifiablePublicData.c
+ lass
+SHA-256-Digest: 93pb5rRHTQMgGSnGzA5EjtVhSw5laLrAtSTDNgGqbZ0=
+
+Name: ae/emiratesid/idcard/toolkit/datamodel/CardCertificates$1.class
+SHA-256-Digest: KTXE1TeFMreB6JiPdWpuB9g2WqNWqVHw3DDvgak4hxY=
+
+Name: ae/emiratesid/idcard/toolkit/datamodel/ResponseStatus.class
+SHA-256-Digest: Dl2aFpYIxJyr0zByRMjjseWoxhwE0tytbadfn4llths=
+
+Name: ae/emiratesid/idcard/toolkit/datamodel/CardPublicData$1.class
+SHA-256-Digest: xjPbWI3ovMHfJ0GJIm01hecmWep1UOFGbegDiUIOtDE=
+
+Name: ae/emiratesid/idcard/toolkit/datamodel/CardFamilyBookData$1.clas
+ s
+SHA-256-Digest: l1oLFk7pNlFtbfa0Ei38BKicmIvQEoiSWbCNWEpYa2c=
+
+Name: ae/emiratesid/idcard/toolkit/internal/XmlUtil.class
+SHA-256-Digest: c2aFkzlFiBohAwB8yiGeLExBPzofb9nLWRlenxK3v+Y=
+
+Name: ae/emiratesid/idcard/toolkit/datamodel/WorkAddress.class
+SHA-256-Digest: Mhl0gjMgtaURYDlQaDHLm3GHBU4bk/VTv2ovlvVN+o4=
+
+Name: emiratesid/jio/webcomponents/PublicDataReader$12.class
+SHA-256-Digest: LJNXSgK6CLfR3Ue+kVKsaVMmsuty94MfDDM66LHNHD4=
+
+Name: emiratesid/jio/webcomponents/PublicDataReader$32.class
+SHA-256-Digest: FJHKroWbi/KGyXJa/w//Y7qW2isTBpVEu0M4N8GxJ2M=
+
+Name: emiratesid/jio/webcomponents/PublicDataReader$2.class
+SHA-256-Digest: X6gjr38vDZ6G5gQSDNnK9W3HCkEm92JY7ud5JwIqzyc=
+
+Name: ae/emiratesid/idcard/toolkit/datamodel/FingerData.class
+SHA-256-Digest: aMgpMYtPhmQi6JvjsJD6fuDR9F8zbRPcwDVwG/EURO8=
+
+Name: libs_64/Mso_SpUsb.dll
+SHA-256-Digest: +UWIreNRLtPsFxgnIiE1NntaOFGZ3iHtr/9virgjjcE=
+
+Name: emiratesid/jio/webcomponents/PublicDataReader$27.class
+SHA-256-Digest: aAWkaEjVL/UD4bCJk8uh2IX2AGRqIOgbW/xEXJ61kHI=
+
+Name: emiratesid/jio/webcomponents/PublicDataReader$24.class
+SHA-256-Digest: v5ke6jyeI22sZ20cXJeXB5014BCq8JhaBFKLd//S+YA=
+
+Name: ae/gov/ica/idcard/toolkit/util/ToolkitException$ExceptionType.cl
+ ass
+SHA-256-Digest: Tio/USYa1GTrWo4X4ISIk099bZMM8Gp5gi/5fBDI17Y=
+
+Name: ae/emiratesid/idcard/toolkit/datamodel/HeadOfFamily.class
+SHA-256-Digest: bJbVxe2qcRN+agDV9BKAT6eJuRDHzDpEXiH4Czmnsrk=
+
+Name: libs_64/ImageCompress.dll
+SHA-256-Digest: XLUvNEm0PytKFH6NA5bSSQe1jYu9WfzCtQSlrtgWZX8=
+
+Name: libs_32/MSO100.dll
+SHA-256-Digest: XuTs40Ky7SLzKwMh8lyTc/sbXb8ychUJsqI4zTjszjM=
+
+Name: emiratesid/jio/webcomponents/PublicDataReader$5.class
+SHA-256-Digest: 4B+BozcJIb8eQbLuA6VC5GFCngVIfqvRuDgEBJZ37ZA=
+
+Name: emiratesid/jio/webcomponents/PublicDataReader$15.class
+SHA-256-Digest: x4D8Pw7j2BGDVdn9kAghp8gKRJH4Y+vQACp2VXyOfgk=
+
+Name: libs_32/SagemMSO1350.dll
+SHA-256-Digest: SM99os4b4Yipwd1ZlRvJaymOs8cjeS6hIwepNDa5cWs=
+
+Name: dllConfig_32.conf
+SHA-256-Digest: epZsby88XN+zSRuOh1LDW34/stQBMSuQOM8HZZuhpUM=
+
+Name: ae/emiratesid/idcard/toolkit/datamodel/ToolkitXmlDataObject$Asse
+ rt.class
+SHA-256-Digest: 6jj7JxOzgWI7kRrP3g/F6W2Nz26hWGxMwwSrRwoyWpw=
+
+Name: ae/emiratesid/idcard/toolkit/datamodel/CardPublicData.class
+SHA-256-Digest: hxsGdHH9ZpyR+j4NqrW5vfkpIzaMEpIuTi2gN+m6ne8=
+
+Name: ae/emiratesid/idcard/toolkit/datamodel/Wife$1.class
+SHA-256-Digest: AQjoFOyGf4pIF8p41mmDa3X1rHPjV7hQGrF2/szCIvs=
+
+Name: libs_64/MSO100.dll
+SHA-256-Digest: gV2capPvCAzx7eVdDQoBaLEr0B/7X3eyoykXlnH57EU=
+
+Name: ae/emiratesid/idcard/toolkit/CardReaderJNI.class
+SHA-256-Digest: p21r1CrBTPmV60JV+6Wi3+EDjI7+b5x9HQoHY6F3ZPs=
+
+Name: libs_64/SagemMSO1350.dll
+SHA-256-Digest: ZbSdQMbsUkrywT/OWD+xc2+h9rG7bkI3g48N1oN/7Sc=
+
+Name: libs_64/MorphoGLog.dll
+SHA-256-Digest: YPbfzUkRJeaY+K4BMCl/S7qY0NUGsGfde4NaEfqF5OQ=
+
+Name: ae/emiratesid/idcard/toolkit/datamodel/RegisterDeviceResponse$1.
+ class
+SHA-256-Digest: PO2hzZ059FM1B0EejbrYxLVKjvQaFDNceIS0POlQTbM=
+
+Name: ae/gov/ica/idcard/toolkit/util/NativeUtils.class
+SHA-256-Digest: QRRrRpe7I9iCeenXspq0Fs/5BmWcU2BXxQY+9VX7QQ4=
+
+Name: emiratesid/jio/webcomponents/PublicDataReader$18.class
+SHA-256-Digest: eiKbUXo834FRKancqb0+EDEGCKeiPyRGYHN1AV63J9M=
+
+Name: emiratesid/jio/webcomponents/PublicDataReader$28.class
+SHA-256-Digest: +DWmZs1WbRc9/wU8nkCu/KNXdygT2dA6oLQQM6b+68U=
+
+Name: ae/emiratesid/idcard/toolkit/util/Base64Utils.class
+SHA-256-Digest: Jm+TsPdDyusL+ziR5A9TklGT4RqV5YrroRlN2oKn9zg=
+
+Name: ae/emiratesid/idcard/toolkit/datamodel/SigningParameters$1.class
+SHA-256-Digest: 4+cB0fHKOjh+7LRqGteQITmeRTSRMfNjOoJe1GZ1qZY=
+
+Name: ae/emiratesid/idcard/toolkit/datamodel/HeadOfFamily$1.class
+SHA-256-Digest: y0Ek+hgreHxG0xe8WsN06bu/FIj8RAVG7a/X3PYpNEU=
+
+Name: ae/emiratesid/idcard/toolkit/datamodel/SigningParameters.class
+SHA-256-Digest: iPqTC2mSupOzcqkEExWtfaJobgJlw1nu7i3dLZn1vXM=
+
+Name: ae/emiratesid/idcard/toolkit/datamodel/FingerIndex.class
+SHA-256-Digest: jdpkUFzQ/iljlFDs1R7eLT0aPbcblf4vvKJ33FMHO8o=
+
+Name: ae/emiratesid/idcard/toolkit/datamodel/PDFVisibleSignatureParame
+ ters.class
+SHA-256-Digest: Vq6z8vCVPOKlghTnBn5UaooMZ/uKl7pOiu6ffFsWpWM=
+
+Name: emiratesid/jio/webcomponents/PublicDataReader$11.class
+SHA-256-Digest: dZzLANBm1a7/YghnbMAIRaJvPSbZayK3QZlJcJQgeI8=
+
+Name: emiratesid/jio/webcomponents/PublicDataReader$21.class
+SHA-256-Digest: RkkGnClnWJUeLdxnXL98hMqDJuuXNFbu1Lzk2dozcKQ=
+
+Name: ae/emiratesid/idcard/toolkit/datamodel/ModifiablePublicData.clas
+ s
+SHA-256-Digest: mC0/fRHnf5uHtAp0wfgNWFbr3zHdRtV3n4Lr4/hTh0k=
+
+Name: ae/emiratesid/idcard/toolkit/datamodel/DataProtectionKey.class
+SHA-256-Digest: hCQCeZ8kIVYt1yI3Uk8iOidObFdf6rVJeUW3KFkbUec=
+
+Name: libs_32/msvcp120.dll
+SHA-256-Digest: h8QsoVVHPk5xhX0DSXyMvCj6j/fyyNcuih85txB49gg=
+
+Name: emiratesid/jio/webcomponents/PublicDataReader$22.class
+SHA-256-Digest: yIGP9aXMAL0nYYUSNl+gi+//M4FjMhHVfliOyEKsxCQ=
+
+Name: emiratesid/jio/webcomponents/PublicDataReader$29.class
+SHA-256-Digest: 3Sd/AyBUNGqz/6AYZE5iQhM3k0L+pICDNCddy3ppxaA=
+
+Name: ae/emiratesid/idcard/toolkit/datamodel/ReportType.class
+SHA-256-Digest: 9dsUm2f/sR81dHgT+23RWAvYe9qWXAXe2OULOP+1II4=
+
+Name: emiratesid/jio/webcomponents/PublicDataReader$4.class
+SHA-256-Digest: qqkBCyQ3pc9U1DO+37NFo8uoTmKXpUWTws6o5Qzu0HY=
+
+Name: ae/emiratesid/idcard/toolkit/datamodel/CardCertificates.class
+SHA-256-Digest: Q2+KvDlCw3jeWHDiDqC3cQxx1VZj+i22I7kS2iLaBuE=
+
+Name: ae/emiratesid/idcard/toolkit/datamodel/SignatureLocation.class
+SHA-256-Digest: I6nsqCyXyHyGvYUYFDZ2GjArbZH5cqAWAi1AkQswNzE=
+
+Name: ae/emiratesid/idcard/toolkit/datamodel/ToolkitResponse$1.class
+SHA-256-Digest: SsNRc+w/Uz597qXst08XOamPewJKMtGFn4nkgBkgVrs=
+
+Name: libs_32/EIDAToolkit.dll
+SHA-256-Digest: i0M4oai2JVwuqffJJ8ryLZaEwtfWRf97QidJeLRW65M=
+
+Name: ae/emiratesid/idcard/toolkit/datamodel/Wife.class
+SHA-256-Digest: Q5x61HoT/OJ5/DL8iSmAoFlkO55EUtgpxXzS0oAcQw4=
+
+Name: emiratesid/jio/webcomponents/PublicDataReader$10.class
+SHA-256-Digest: 954hT2aWGG7N4w1xR1+SSBFAHuFrMuIPnYYG7u/i2Kc=
+
+Name: libs_32/ImageCompress.dll
+SHA-256-Digest: jQ6uh5AKKz87vZZ03CfXr7Z9Y7PLtVN4EozRDqryKkc=
+
+Name: ae/gov/ica/idcard/toolkit/util/Console.class
+SHA-256-Digest: BT1PNv2usuPIFoY3Q1rBSJ78Nnsiqag6Irl0uqLl5TU=
+
+Name: emiratesid/jio/webcomponents/PublicDataReader$17.class
+SHA-256-Digest: qc2K+cblHFgxVgFbVdPknxxyEBhfZ4wAj11A05czbhc=
+
+Name: ae/emiratesid/idcard/toolkit/datamodel/SigningParameters$Signatu
+ rePacking.class
+SHA-256-Digest: h5jbBS8tme34Lap3jfcrzXXMyeTL8RkLDvOV7PBw+fI=
+
+Name: libs_32/PCSCLib.dll
+SHA-256-Digest: /QY9J3sj9DCE0dIsY9+MIyf72XzjrSvjYLM22C45qbI=
+
+Name: ae/emiratesid/idcard/toolkit/datamodel/ToolkitResponse.class
+SHA-256-Digest: sCtqohi+bgVh+IjJmG53IWaGr6cfkh+NT1puDXB8LY0=
+

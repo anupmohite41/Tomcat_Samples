@@ -1,0 +1,130 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: pcr6yJFQ9keq9VIHZVlJ95+npNf5v
+ eqd/pLTh7VNfHA=
+SHA-256-Digest-Manifest: 1wEP9PXzU2ji5hNIsckb3ZzTNKOcuVNDFnBWp00zUg0=
+Created-By: 1.8.0_161 (Oracle Corporation)
+
+Name: libs_64/MSO100.dll
+SHA-256-Digest: GJbPifBmvwa70i96CcVv5Mvf4XAex0TROGNAJxK+r1s=
+
+Name: libs_32/EIDAToolkitAgent.dll
+SHA-256-Digest: CHgseXySbf8XFlkF49ZnYLCKsYSts0UgupNX6VByOaQ=
+
+Name: libs_64/SagemMSO1350.dll
+SHA-256-Digest: SyfNdEyeriWTw/OslJBlLUFxHIqXr5Oi39k2TTSFay0=
+
+Name: libs_64/MorphoGLog.dll
+SHA-256-Digest: MIXB0J9oaKmrl2kMKuVq1MUA5Vn7iaS4MKkyqRD8Ki4=
+
+Name: ae/gov/ica/idcard/toolkit/util/NativeUtils.class
+SHA-256-Digest: 2OxuaIdkf0E6DUgyi2VGFyT8sPRpfpGecHxu9WXi54o=
+
+Name: ae/gov/ica/idcard/toolkit/jws/agent/ServiceTray$2.class
+SHA-256-Digest: 3tagJN8gQUGPO358aaMMfJfMzyRYR637WmtMDrVc2DU=
+
+Name: ae/gov/ica/idcard/toolkit/jws/agent/ServiceTray$1.class
+SHA-256-Digest: BlAHik8dOsjU3P7DrLLpQlbIyIRmv/Oe2bT0zfd1Q+8=
+
+Name: libs_32/MORPHO_SDK.dll
+SHA-256-Digest: aMUdqa6EcoG2prz6GZDEV0k5h5xfpkqRmV87iA3woRM=
+
+Name: libs_32/MSO_Sprs232.dll
+SHA-256-Digest: dxO215VKx5jyItlZGPNoK3njb0hGGNfIr0eoQ46F+mw=
+
+Name: ae/gov/ica/idcard/toolkit/jws/agent/ServiceTray.class
+SHA-256-Digest: KpcUaOahslMkV2vyY56gTAqCtlg5/eVporu7WtY7cts=
+
+Name: ae/gov/ica/idcard/toolkit/util/ErrorCode.class
+SHA-256-Digest: J2/Qu+Lkp4Plxtv1z5rBwZaMRfj8acfpuE9oYH0Tbvs=
+
+Name: ae/gov/ica/idcard/toolkit/util/Utils.class
+SHA-256-Digest: tT+b6JIyHv6G7y5hEgOmdchK03WWlbu5Jvx+SAMrYus=
+
+Name: libs_32/msvcr120.dll
+SHA-256-Digest: SR9RD5yv0915Ud7wH/0au1jVtpkybcgRnXpDhZlq68M=
+
+Name: ae/gov/ica/idcard/toolkit/jws/agent/jni/ServiceLauncherJNI.class
+SHA-256-Digest: 30gXUWbrPM+yEt3Onlfdliaa+gO7trgV7pqbL4ZwQDA=
+
+Name: libs_64/EIDAToolkit.dll
+SHA-256-Digest: L/F67uG+CcoVHlxTiMEDU9hLCTZxyjFHmu6UxqzjtPw=
+
+Name: dllConfig_64.conf
+SHA-256-Digest: khCtWj5SAgQYLRc5ud9ZwR6QrFfPTrHQtmlgZH03SkE=
+
+Name: libs_32/Mso_SpUsb.dll
+SHA-256-Digest: QBBwCl3wMoA6C4EkDpnvLm0wvq30d77leXFuz2i8iOY=
+
+Name: libs_32/msvcp120.dll
+SHA-256-Digest: 3RtD84F1sCUFz83qjP6AUerV/rVzcNow01P5r20lVOw=
+
+Name: ae/gov/ica/idcard/toolkit/util/ToolkitException.class
+SHA-256-Digest: qL7jQwnaEmJKzwIOnWZfAdoZaVjemJOJELmETARRKmI=
+
+Name: libs_64/MSO_Sprs232.dll
+SHA-256-Digest: 9w3KVSoR1XH6XubUH+igspkBGo+vh4RHMN18EeQHsQw=
+
+Name: libs_64/Mso_SpUsb.dll
+SHA-256-Digest: sdeonQjWCK+zDri3FqIIVOsYVqbqueT5NMR5Oc3//mc=
+
+Name: libs_64/EIDAToolkitAgent.dll
+SHA-256-Digest: J3fJNY7SiYRpmH4p6Kq5ECrY+dGB/25WqgNUv239Pdo=
+
+Name: ae/gov/ica/idcard/toolkit/util/ToolkitException$ExceptionType.cl
+ ass
+SHA-256-Digest: MnXYUfunZVAnTdek7jRojpe6EJRiwi3Cm5yHBatPrvg=
+
+Name: libs_64/ImageCompress.dll
+SHA-256-Digest: TUCHJ7PC5V7PrVGpYyO6/2FS9e2BbxoIndecH7YhjnU=
+
+Name: libs_64/msvcp120.dll
+SHA-256-Digest: DzBnpE81bpvbhYO/rJN6BzQlaq2eZjFDz4JE2xdwKoE=
+
+Name: libs_64/msvcr120.dll
+SHA-256-Digest: rY172UuM+GhY+HhcCJjo7A2Hoz+ntKhmzGFu1KJjtx0=
+
+Name: libs_32/MSOSECU.dll
+SHA-256-Digest: tHyD5DJXUW7GUwPOmKH/E54rHBhkORq+l+7JfKZ8NxU=
+
+Name: libs_32/MSO100.dll
+SHA-256-Digest: O+bYuO12OhcRORBQHEbB+NtHdygvBJUZtUGW8CIYIJE=
+
+Name: libs_32/EIDAToolkit.dll
+SHA-256-Digest: 8LhSNnZ10Iyl+PRHZ5EeP8fCa9zfLFyn3Fj11kl3RKA=
+
+Name: libs_32/ImageCompress.dll
+SHA-256-Digest: c/7hhQW20Y10p+7wc6EXpCo74+wCCqjxZuB64eg6t88=
+
+Name: libs_32/SagemMSO1350.dll
+SHA-256-Digest: t8/mbvJu5kJ+cZBLGfBiVmPBvlORXXkFx4pSU8gy92w=
+
+Name: ae/gov/ica/idcard/toolkit/util/Console.class
+SHA-256-Digest: uWeNf9bJzJ+AIFfIwTTl3yLSkyXsZrGGFTvury6m2/8=
+
+Name: libs_32/MorphoGLog.dll
+SHA-256-Digest: SMy97K2WzGHOhXlNFro/QvMojPNYk1S9/Z8yauo2sSQ=
+
+Name: libs_64/MSOSECU.dll
+SHA-256-Digest: r9CVte9dZEf7z8csMnK9SjkJO4CZNqGkSqWk4wPsjvk=
+
+Name: ae/gov/ica/idcard/toolkit/jws/agent/ServiceLauncher.class
+SHA-256-Digest: hmet93Zjy5TInpugPWEcMhsNnR1c1NE2vwua8w5YC4s=
+
+Name: dllConfig_32.conf
+SHA-256-Digest: u3fp1pJC8JNDPkKmBygNh9C/tsXf26Jvq8HCQzj9Jc0=
+
+Name: ae/gov/ica/idcard/toolkit/util/Result.class
+SHA-256-Digest: e6wO1O0yKyblKEp056vblyw6cBy22rUk45lPTocl+fc=
+
+Name: libs_32/PCSCLib.dll
+SHA-256-Digest: NDrq8iL4nD88yb9HI3+gVOmBb2CiW4PxlU1kPURHsSc=
+
+Name: libs_64/MORPHO_SDK.dll
+SHA-256-Digest: l6AO0rXS1iVwP5sSMQ86sjn8Y9T7z/OiCNku2Qndm90=
+
+Name: libs_64/PCSCLib.dll
+SHA-256-Digest: QaQvxXyP0R7kx9xZze8Pa4kELXmO99OfClrhlGwIf4s=
+
+Name: jws_icon.png
+SHA-256-Digest: Ayw4TXeMCZHPz82BIx+0h3GY5ViN5RFbbxZ/yPeuwGE=
+
